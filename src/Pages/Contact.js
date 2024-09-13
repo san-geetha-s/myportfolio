@@ -12,10 +12,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_qt6ynin",
-        "template_fti9rjh",
+        "service_xaaq92f",
+        "template_2k1chia",
         formRef.current,
-        "user_GN17fKoDZSyAlOwwLj3LN"
+        "gMxgu0Obb1v9Op2FT"
       )
       .then(
         (result) => {
@@ -59,7 +59,7 @@ const Contact = () => {
                   <input
                     data-aos="fade-up"
                     type="text"
-                    placeholder="Contact Contact"
+                    placeholder="Contact "
                     className="form-control"
                     name="user_contact" pattern="[0-9]{10}" title="Please enter valid number." required
                   />

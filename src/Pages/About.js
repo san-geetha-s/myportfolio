@@ -10,13 +10,9 @@ const About = () => {
             <div className="aboutcontent">
               <h2>About Me</h2>
               <p>
-                I'm a Front End Developer & Graphics Designer. I love to solve
-                design problems, develop new features and design prototypes
-                using different mediums. My work is mainly focused on
-                frontend-development. As for graphic designs, my work mainly
-                involves photo manipulation. Besides, I also like doing
-                photography and videography, where I can express my creative
-                thought process.
+              I am a self-taught programmer and future MERN developer, getting trained by Brototype. A graduation in Botany could't stop me from entering into the field I am passionate about.
+
+I am an aspiring programmer eagerly looking forward to do more projects thereby I could mark my contribution and sharpen my technical skills. I am currently working on Reactjs and Express on the front end , Nodejs and Mongodb on the backend.
               </p>
             </div>
           </div>

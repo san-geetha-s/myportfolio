@@ -32,11 +32,11 @@ const Nav = () => {
               <img src={Services} alt="services" />
             </li>
           </Link>
-          <Link to="/work">
+          {/* <Link to="/work">
             <li data-aos="zoom-in">
               <img src={Work} alt="work" />
             </li>
-          </Link>
+          </Link> */}
           <Link to="/education">
             <li data-aos="zoom-in">
               <img src={Education} alt="education" />
@@ -47,11 +47,11 @@ const Nav = () => {
               <img src={Jsprojects} alt="jsprojects" />
             </li>
           </Link>
-          <Link to="/portfolio">
+          {/* <Link to="/portfolio">
             <li data-aos="zoom-in">
               <img src={Projects} alt="portfolio" />
             </li>
-          </Link>
+          </Link> */}
           <Link to="/contact">
             <li data-aos="zoom-in">
               <img src={Contact} alt="contact" />

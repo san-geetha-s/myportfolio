@@ -23,7 +23,7 @@ function App() {
   return (
     <div>
       <Nav />
-      <Learn />
+      
       {/* <Home/>
       <About />
       <Services/>s
@@ -35,7 +35,7 @@ function App() {
         <Route path="/myportfolio" element={<Home />}></Route>
         <Route path="/about" element={<About />}></Route>
         <Route path="/services" element={<Services />}></Route>
-        <Route path="/work" element={<Work />}></Route>
+        {/* <Route path="/work" element={<Work />}></Route> */}
         <Route path="/education" element={<Education />}></Route>
         <Route path="/projects" element={<Jsprojects />}></Route>
         <Route path="/portfolio" element={<Projects />}></Route>

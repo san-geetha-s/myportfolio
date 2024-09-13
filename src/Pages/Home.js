@@ -1,6 +1,6 @@
 import React from "react";
 import "./Home.css";
-import profileimg from "../assets/img/profileimg.png";
+import profimg from "../assets/img/profimg.png";
 import Pdf from "../assets/pdf/poojagarva.pdf";
 import { Link } from "react-router-dom";
 import Linkedinicon from "../assets/img/socialicons/linkedin.png";
@@ -16,14 +16,19 @@ const Home = () => {
           <div className="col-sm-5">
             <div className="imgsec">
               <img
-                src={profileimg}
+                src={profimg}
                 data-aos="flip-right"
-                alt="Pooja Garva"
+                alt="Sangeetha"
                 className="img-fluid"
               />
+
+
+
+
+            
               <div className="socialmedia">
                 <a
-                  href="https://www.linkedin.com/in/poojagarva/"
+                  href="www.linkedin.com/in/sangeetha-s-43aa96221"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -35,7 +40,7 @@ const Home = () => {
                   />
                 </a>
                 <a
-                  href="https://github.com/poojagarva28"
+                  href="https://github.com/san-geetha-s"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -47,7 +52,7 @@ const Home = () => {
                   />
                 </a>
                 <a
-                  href="https://www.instagram.com/placesiwandered/"
+                  href="https://www.instagram.com/sange_e_tha_s/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -59,7 +64,7 @@ const Home = () => {
                   />
                 </a>
                 <a
-                  href="mailto:poojagarva123@gmail.com"
+                  href="mailto:sangeethas12122000@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -76,8 +81,8 @@ const Home = () => {
           </div>
           <div className="col-sm-5 offset-sm-2">
             <div className="rightcontent" data-aos="fade-right">
-              <h1>Pooja Garva</h1>
-              <h2>Software Engineer</h2>
+              <h1>Sangeetha</h1>
+              <h2>React Developer</h2>
               <br />
               <div className="row">
                 <div className="col-sm-4 col-6">

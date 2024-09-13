@@ -48,10 +48,10 @@ const Education = () => {
                 <div className="educationblock">
                   <div className="row">
                     <div className="col-sm-4">
-                      <h5 data-aos="fade-right">Jan, 2019 - May, 2019</h5>
+                      {/* <h5 data-aos="fade-right">Jan, 2019 - May, 2019</h5> */}
                     </div>
                     <div className="col-sm-8">
-                      <div className="educationright" data-aos="fade-left">
+                      {/* <div className="educationright" data-aos="fade-left">
                         <h5>Infibeam Avenues Limited</h5>
                         <h6>Project - "E-Commerce and Retailing System"</h6>
                         <h6>
@@ -64,7 +64,7 @@ const Education = () => {
                           - Woocommerce
                           <br />- Stripe
                         </h6>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>

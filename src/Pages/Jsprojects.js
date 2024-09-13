@@ -39,14 +39,9 @@ const Jsprojects = () => {
               ))}
             </div>
             <br />
-            <h2>Dashboard | React JS </h2>
-            <p>
-              Local Storage / Chart JS / ApexCharts / Product Management / User
-              Management / Array methods / Filters / Javascript Events / Browser
-              APIs
-            </p>
+
             <br />
-            <div className="js">
+            {/* <div className="js">
               <div className="row">
                 <div className="col-sm-6">
                   <a
@@ -73,8 +68,8 @@ const Jsprojects = () => {
               Local Storage / Array methods / Filters / Javascript Events / HTML
               Forms window Object / Browser APIs
             </p>
-            <br />
-            <div className="js">
+            <br /> */}
+            {/* <div className="js">
               <div className="row">
                 <div className="col-sm-6">
                   <a href="https://shoplane-by-pooja.glitch.me" target="_blank">
@@ -89,8 +84,8 @@ const Jsprojects = () => {
                   >
                     Github Code <img src={githubImg} />
                   </a>
-                </div>
-                <div className="col-sm-6">
+                </div> */}
+                {/* <div className="col-sm-6">
                   <a
                     href="https://poojagarva28.github.io/project/"
                     target="_blank"
@@ -107,7 +102,7 @@ const Jsprojects = () => {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
